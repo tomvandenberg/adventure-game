@@ -1,0 +1,23 @@
+body {
+  background-image: url('achtergrond/deur.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#sleutel {
+  position: absolute;
+  width: 175px;
+  bottom: 70px;
+  right: 80px;
+}
+#sleutel2 {
+  top: 30px;
+  right: 30px;
+  position: fixed;
+  width: 75px;
+}
+#zwaard {
+  position: absolute;
+  width: 175px;
+  bottom: 70px;
+  left: 80px;
+}
